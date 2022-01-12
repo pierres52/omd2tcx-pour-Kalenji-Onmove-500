@@ -1,0 +1,2 @@
+# omd2tcx-pour-Kalenji-Onmove-500
+C'est une montre sport qui était vendue par Décathlon. Il n'y a pas de possibilité de transformer les données de la montre sur une platform Linux et suite à de nouvelles logiciels et sites Web de Décathlon cette transformation ne fonctionne plus sou windows non plus, ni sur les smartphones. Ce nouveau programme en Python permet la création d'un fichier .tcx qu'on peut importer dans un logiciel de sport comme pytrainer ou télécharger sur le site Décathlon Coach ou Strava.
