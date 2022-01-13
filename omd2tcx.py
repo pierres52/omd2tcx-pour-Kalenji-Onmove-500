@@ -8,7 +8,7 @@ from time import localtime, mktime
 fuser=input("vous avez un fichier USER.BIN dans votre répertoire ? - o=oui, n=non :\n")
 #fichier=input("Nom du fichier à charger sans .Extension :\n")
 fichier='ACT_0003'
-out=input("Nom des fichiers .tcx à créer sans .Extension :\n")
+out=input("Nom du fichier .tcx à créer sans .Extension :\n")
 
 #données de base par défaut
 date_naissance='1952-01-29'
