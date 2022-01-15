@@ -1,0 +1,12 @@
+Riccardo Boninsegna, en 2015 a publié un programme en C pour extraire les données d'une montre Onmove 200. Il a pu reconnaître la façon comment les fichiers hexadécimaux de la montre étaient organisés. Vous trouvez ce programme sou le lien suivant :
+https://github.com/rboninsegna/OnMove200
+
+Sur les découvertes de Riccardo Boninsegna, Denis Paris a pu reconnaître la structure du fichier .OMD de la montre Onmove 500. Par la suite il a donné une description exhaustive de ce fichier sur sa page et construit de beaux scripts en python pour sortir les données en .csv, de proposer des graphs et un fichier gpx. Ceci avec un langage lisible par tous les systèmes d'exploitation.
+http://uncledens.chez-alice.fr/python/montregps.htm
+
+La seule chose qui manque aux scripts de Denis Paris était la création d'un fichier lisible par des programmes de sport comme pytrainer ou des sites web comme Décathlon Coach ou Strava qui contiennent les fréquences de coeur et autre données importantes pour une séance de sport comme elles sont enregistrées dans des fichiers .tcx.
+C'est le but de mon travail et une première release du script va être proposé ici, un script lancé en ligne de commande.
+Pour les dernières erreurs et subtilités des fichiers et du script j'ai demandé l'aide de ToufouMaster et sans lui le script ne serait pas optimal.
+https://github.com/ToufouMaster
+
+Mon but c'est de faire ce script applicable plus simplement et créer une interface graphique.
